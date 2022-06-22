@@ -1,4 +1,4 @@
-Job :
+Job : 
     - title
     - location
     - job type
@@ -7,14 +7,16 @@ Job :
     - Vacancy
     - salary
     - category
-    - experience
+    - experience 
+    
 
     - apply job 
     - post job
 
-Blog :
+
+Blog : 
     - title
-    - description
+    - description 
     - created_at
     - category
     - tags
@@ -27,4 +29,5 @@ Blog :
 contact
 home
 
-login
+
+login 
